@@ -1,0 +1,10 @@
+h1{
+    text-align: center;
+}
+p { color:red;
+    background-color:lightgreen;
+}
+.hder { color:black;
+    background-color:lightblue;
+    font-size:30px;
+}
